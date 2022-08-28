@@ -1,3 +1,7 @@
+<p align="right">
+  <a href="https://github.com/mohkale/jellyfin-plugin-dotdirectory/actions/workflows/build.yml" alt=".NET"><img src="https://github.com/mohkale/jellyfin-plugin-dotdirectory/actions/workflows/build.yml/badge.svg" /></a>
+</p>
+
 # Jellyfin.Plugin.DotDirectory
 
 Jellyfin plugin to extract cover information from freedesktop [.directory][.directory] files and
